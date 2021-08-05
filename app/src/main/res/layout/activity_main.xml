@@ -17,7 +17,7 @@
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
             android:background="?attr/colorPrimary"
-            app:title="Заметки"
+            app:title="@string/title"
             android:contentDescription="Заметки"
             app:popupTheme="@style/Theme.Notes.PopupOverlay" />
 

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Заметки</string>
+    <string name="action_settings">Настройки</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Список заметок</string>
+    <string name="second_fragment_label">Заметка</string>
+    <string name="next">Открыть заметку</string>
+    <string name="previous">Вернуться к списку заметок</string>
+
+    <string name="hello_first_fragment">Первая заметка</string>
+    <string name="hello_second_fragment">Привет это текст первой заметки. Arg: %1$s</string>
+    <string name="title">Мои заметки</string>
+</resources>

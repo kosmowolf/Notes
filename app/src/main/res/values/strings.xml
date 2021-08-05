@@ -1,12 +1,14 @@
 <resources>
-    <string name="app_name">Notes</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name" translatable="false">Notes</string>
+    <string name="action_settings" translatable="false">Settings</string>
     <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
-    <string name="next">Open</string>
-    <string name="previous">Return</string>
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next" translatable="false">Open</string>
+    <string name="previous" translatable="false">Return</string>
 
-    <string name="hello_first_fragment">The first note</string>
-    <string name="hello_second_fragment">Hello, this is the first note. Arg: %1$s</string>
+    <string name="hello_first_fragment" translatable="false">The first note</string>
+    <string name="hello_second_fragment" translatable="false">Hello, this is the first note. Arg: %1$s</string>
+    <string name="title" translatable="false">My notes</string>
+    <string name="please_write_note_check_date_and_press_save">Please write note, check date and press save</string>
 </resources>
